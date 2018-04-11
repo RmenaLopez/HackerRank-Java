@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fbed3da1-79c7-4ca5-be37-237f4a6b752a" name="Default" comment="" />
+    <list default="true" id="de7a0e11-7368-4c7a-aacc-549c3de722c9" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,9 +15,28 @@
       <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="170">
+              <caret line="10" column="42" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Student.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding>
+                <element signature="e#118#119#0" expanded="true" />
+                <element signature="e#145#146#0" expanded="true" />
+                <element signature="e#180#181#0" expanded="true" />
+                <element signature="e#208#209#0" expanded="true" />
+                <element signature="e#249#250#0" expanded="true" />
+                <element signature="e#283#284#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -44,6 +63,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/Student.java" />
         <option value="$PROJECT_DIR$/src/Solution.java" />
       </list>
     </option>
@@ -55,10 +75,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1944" />
-    <option name="y" value="-4" />
-    <option name="width" value="1198" />
-    <option name="height" value="650" />
+    <option name="x" value="1893" />
+    <option name="y" value="253" />
+    <option name="width" value="1196" />
+    <option name="height" value="614" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -75,21 +95,26 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="JavaHashset" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaHashset" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaReflection-Attributes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaReflection-Attributes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaReflection-Attributes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaReflection-Attributes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -127,7 +152,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaHashset" />
+      <module name="JavaReflection-Attributes" />
       <envs />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -218,20 +243,21 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fbed3da1-79c7-4ca5-be37-237f4a6b752a" name="Default" comment="" />
-      <created>1523315348519</created>
+      <changelist id="de7a0e11-7368-4c7a-aacc-549c3de722c9" name="Default" comment="" />
+      <created>1523486505167</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1523315348519</updated>
-      <workItem from="1523315352738" duration="3083000" />
+      <updated>1523486505167</updated>
+      <workItem from="1523486509196" duration="794000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3083000" />
+    <option name="totallyTimeSpent" value="794000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1944" y="-4" width="1922" height="1095" extended-state="6" />
+    <frame x="1893" y="253" width="1920" height="1084" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -274,11 +300,36 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="e#118#119#0" expanded="true" />
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="42" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
